@@ -1,0 +1,36 @@
+2021-05-16 23:23:03.039357 -- sub_files start 
+2021-05-16 23:23:08.733635 -- sub_files done
+2021-05-16 23:23:08.849660 -- sub_files start 
+2021-05-16 23:23:15.011043 -- sub_files done
+2021-05-16 23:23:15.143072 -- insert_data start
+2021-05-16 23:23:18.030721 -- insert success 1.2019.csv
+2021-05-16 23:23:20.957377 -- insert success 2.2019.csv
+2021-05-16 23:23:23.875032 -- insert success 3.2019.csv
+2021-05-16 23:23:26.812690 -- insert success 4.2019.csv
+2021-05-16 23:23:29.722343 -- insert success 5.2019.csv
+2021-05-16 23:23:32.624995 -- insert success 6.2019.csv
+2021-05-16 23:23:35.527646 -- insert success 7.2019.csv
+2021-05-16 23:23:38.483309 -- insert success 8.2019.csv
+2021-05-16 23:23:41.421969 -- insert success 9.2019.csv
+2021-05-16 23:23:44.354627 -- insert success 10.2019.csv
+2021-05-16 23:23:47.268280 -- insert success 11.2019.csv
+2021-05-16 23:23:50.193937 -- insert success 12.2019.csv
+2021-05-16 23:23:53.121593 -- insert success 13.2019.csv
+2021-05-16 23:23:56.008241 -- insert success 14.2019.csv
+2021-05-16 23:23:58.937899 -- insert success 15.2019.csv
+2021-05-16 23:23:58.982908 -- insert_data start
+2021-05-16 23:24:02.072601 -- insert success 1.2020.csv
+2021-05-16 23:24:05.222308 -- insert success 2.2020.csv
+2021-05-16 23:24:08.363014 -- insert success 3.2020.csv
+2021-05-16 23:24:11.511719 -- insert success 4.2020.csv
+2021-05-16 23:24:14.619416 -- insert success 5.2020.csv
+2021-05-16 23:24:17.722112 -- insert success 6.2020.csv
+2021-05-16 23:24:20.852815 -- insert success 7.2020.csv
+2021-05-16 23:24:23.954511 -- insert success 8.2020.csv
+2021-05-16 23:24:27.050205 -- insert success 9.2020.csv
+2021-05-16 23:24:30.201912 -- insert success 10.2020.csv
+2021-05-16 23:24:33.392628 -- insert success 11.2020.csv
+2021-05-16 23:24:36.525331 -- insert success 12.2020.csv
+2021-05-16 23:24:39.701043 -- insert success 13.2020.csv
+2021-05-16 23:24:42.888758 -- insert success 14.2020.csv
+2021-05-16 23:24:46.046467 -- insert success 15.2020.csv
